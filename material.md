@@ -1,0 +1,42 @@
+# Beginners guide
+
+## HTML and CSS Resources
+* [HTML5 and CSS3 Visual quick start guide](https://mitseu.files.wordpress.com/2014/08/html5-and-css3-visual-quick-start-guide-7th-edition.pdf)
+* [Good CSS page](https://css-tricks.com/)
+* [Mozilla developer Network - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla developer Network - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Codecademy HTML/CSS Course](https://www.codecademy.com/learn/learn-html-css)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox - Codepen Example](http://codepen.io/team/css-tricks/pen/EKEYob)
+
+
+## JavaScript Resources
+* [SpeakingJS](http://speakingjs.com/es5/index.html)
+* [Exploring ES6](http://exploringjs.com/es6/index.html)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Codecademy Javascript Course](https://www.codecademy.com/learn/javascript)
+* [Mozilla developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [YNDJS - You don't know Javascript (Book series)](https://github.com/getify/You-Dont-Know-JS)
+* [2ality - Blog](http://2ality.com/)
+* [PonyFoo - Blog](https://ponyfoo.com/)
+* [FunFunFunction - Weekly Youtube Videos](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [MeetupJS - Argentina monthly](https://www.meetup.com/Meetup-js/)
+
+
+## JavaScript Frameworks
+* [JQuery](https://jquery.com/)
+* [AngularJS](https://angularjs.org/)
+* [ReactJS](https://facebook.github.io/react/)
+
+## Node Resources
+
+
+
+## Git
+* [Git](https://git-scm.com/)
+* [Learn/Try Git](https://try.github.io/levels/1/challenges/1)
+* [Codecademy Git course](https://www.codecademy.com/learn/learn-git)
+
+## Misc. Resources
+* [StackOverflow](http://stackoverflow.com/)
+* [W3Schools](https://www.w3schools.com/)
