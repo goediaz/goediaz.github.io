@@ -23,8 +23,6 @@
 * [2ality - Blog](http://2ality.com/)
 * [PonyFoo - Blog](https://ponyfoo.com/)
 * [FunFunFunction - Weekly Youtube Videos](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-* [MeetupJS - Argentina monthly](https://www.meetup.com/Meetup-js/)
-
 
 ## JavaScript Frameworks
 * [JQuery](https://jquery.com/)
@@ -45,3 +43,8 @@
 ## Misc. Resources
 * [StackOverflow](http://stackoverflow.com/)
 * [W3Schools](https://www.w3schools.com/)
+
+## Argentina Only
+
+* [MeetupJS - Argentina monthly](http://meetupjs.com.ar/)
+* [BANode - Argentina monthly](https://www.meetup.com/banodejs/)
