@@ -39,6 +39,7 @@
 * [Git](https://git-scm.com/)
 * [Learn/Try Git](https://try.github.io/levels/1/challenges/1)
 * [Codecademy Git course](https://www.codecademy.com/learn/learn-git)
+* [LearnGitBranching](http://learngitbranching.js.org/)
 
 ## Misc. Resources
 * [StackOverflow](http://stackoverflow.com/)
