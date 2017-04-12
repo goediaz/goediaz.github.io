@@ -23,6 +23,8 @@
 * [2ality - Blog](http://2ality.com/)
 * [PonyFoo - Blog](https://ponyfoo.com/)
 * [FunFunFunction - Weekly Youtube Videos](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Javascript for cats](http://jsforcats.com/)
+
 
 ## JavaScript Frameworks
 * [JQuery](https://jquery.com/)
