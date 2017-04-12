@@ -27,6 +27,7 @@
 
 ## JavaScript Frameworks
 * [JQuery](https://jquery.com/)
+* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](https://facebook.github.io/react/)
 
