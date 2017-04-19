@@ -1,4 +1,4 @@
-# First Web Steps
+# Intro to Web Development
 
 ## Beginner's Guide
 * [Codeschool - Beginner's Guide](https://www.codeschool.com/beginners-guide-to-web-development)
