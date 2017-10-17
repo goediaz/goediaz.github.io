@@ -30,6 +30,7 @@
 * [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](https://facebook.github.io/react/)
+* [Vue.JS](https://vuejs.org/)
 
 ## Node Resources
 * [NodeJS](https://nodejs.org/en/)
