@@ -24,13 +24,15 @@
 * [PonyFoo - Blog](https://ponyfoo.com/)
 * [FunFunFunction - Weekly Youtube Videos](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [Javascript for cats](http://jsforcats.com/)
+* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ## JavaScript Frameworks
 * [JQuery](https://jquery.com/)
-* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-* [AngularJS](https://angularjs.org/)
-* [ReactJS](https://facebook.github.io/react/)
-* [Vue.JS](https://vuejs.org/)
+* [Angular](https://angularjs.org/)
+* [React](https://facebook.github.io/react/)
+* [Vue](https://vuejs.org/)
+* [Ember](https://www.emberjs.com/)
+* [Meteor](https://www.meteor.com/)
 
 ## Node Resources
 * [NodeJS](https://nodejs.org/en/)
