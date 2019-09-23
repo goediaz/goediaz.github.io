@@ -1,5 +1,9 @@
 # Intro to Web Development
 
+## Outdated
+* Needs to be updated with new books and resources.
+
+
 ## Beginner's Guide
 * [Codeschool - Beginner's Guide](https://www.codeschool.com/beginners-guide-to-web-development)
 
@@ -55,5 +59,3 @@
 * [MeetupJS - Argentina monthly](http://meetupjs.com.ar/)
 * [BANode - Argentina monthly](https://www.meetup.com/banodejs/)
 
-
-## Outdated
